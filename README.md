@@ -10,6 +10,8 @@ This is one of many *possible* scripts and implementations to get stuff in OF. I
 
 It's pretty easy. Select a keyboard shortcut, let it execute this applescript and you're done. For fun and giggles you can add notifications. Knock yourself out. 
 
+![](http://cdn.allesonthouden.nl/images/Keyboard_Maestro_Editor.png "")
+
 ##Backlog
 
 * Toggle settings to make specific variables for a project and context
