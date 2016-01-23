@@ -17,3 +17,4 @@ It's pretty easy. Select a keyboard shortcut, let it execute this applescript an
 * Toggle settings to make specific variables for a project and context
 * Make the script browser-agnostic
 * Variables for extra settings (flag, duration, extra notes)
+* Make initial settings for Keyboard Maestro
